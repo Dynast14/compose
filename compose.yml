@@ -9,8 +9,3 @@
      image: dynast4/websimple
      ports:
        - 8080:80
-   webplantilla:
-     build: ./webplantilla
-     image: dynast4/webplantilla
-     ports:
-       - 8081:80
